@@ -1,0 +1,14 @@
+
+06/29 21:52:39 [[1;32mNOTICE[0m] Downloading 1 item(s)
+                                                                               [#e82e2f 0B/0B CN:1 DL:0B]
+06/29 21:52:40 [[1;32mNOTICE[0m] Allocating disk space. Use --file-allocation=none to disable it. See --file-allocation option in man page for more details.
+                                                                               [#e82e2f 0B/18MiB(0%) CN:1 DL:0B] [FileAlloc:#e82e2f 16MiB/18MiB(87%)]                                                                               [#e82e2f 0B/18MiB(0%) CN:1 DL:0B]                                                                               [#e82e2f 8.3MiB/18MiB(45%) CN:1 DL:8.3MiB ETA:1s]                                                                               [#e82e2f 17MiB/18MiB(97%) CN:1 DL:8.9MiB]
+06/29 21:52:46 [[1;32mNOTICE[0m] Download complete: C:/Users/Administrator/Desktop/gj/viQOO工具箱V2.0.6by某贼/bin/mtkclient-gui.7z
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+e82e2f|OK  |   4.7MiB/s|C:/Users/Administrator/Desktop/gj/viQOO工具箱V2.0.6by某贼/bin/mtkclient-gui.7z
+
+Status Legend:
+(OK):download completed.
